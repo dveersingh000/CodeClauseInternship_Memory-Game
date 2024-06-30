@@ -14,6 +14,10 @@ This project implements a classic Memory Game using HTML, CSS, and JavaScript. T
 - **Restart Game**: Option to restart the game and shuffle cards.
 - **Responsive Design**: Ensures the game is playable across different devices.
 
+## Demo
+![Memory Game Preview](Demo/Memory-Game1.png)
+![Memory Game Preview](Demo/Memory-Game2.png)
+
 ## Project Structure
 - **index.html**: Main HTML file containing the game structure.
 - **style.css**: CSS file for styling the game interface.
