@@ -15,7 +15,7 @@ This project implements a classic Memory Game using HTML, CSS, and JavaScript. T
 - **Responsive Design**: Ensures the game is playable across different devices.
 
 ## Demo
-<img src="Demo/Memory-Game1.png" alt="Memory Game Preview" width="400"> <img src="Demo/Memory-Game2.png" alt="Memory Game Preview" width="400">
+<img src="Demo/Memory-Game1.png" alt="Memory Game Preview" width="400">            <img src="Demo/Memory-Game2.png" alt="Memory Game Preview" width="400">
 
 
 ## Project Structure
